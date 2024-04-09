@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title:  Creator の Blog
+subtitle: '造物者'
+description: '如果今天是世界的最后一天'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: qq
+language: zh-TW
+timezone:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
